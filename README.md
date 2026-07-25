@@ -1,6 +1,6 @@
 ## 💰 Smart Finance Tracker & Predictor
 
-  An enterprise-grade personal finance and predictive cash outflow application built with Python, Streamlit, SQLite, and Scikit-Learn.
+  An advanced personal finance and predictive cash outflow application built with Python, Streamlit, SQLite, and Scikit-Learn.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
