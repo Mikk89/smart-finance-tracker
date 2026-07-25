@@ -68,13 +68,14 @@ Models are dynamically fitted on historical ledger transactions and evaluated us
    git clone [https://github.com/Mikk89/smart-finance-tracker.git](https://github.com/Mikk89/smart-finance-tracker.git)
    cd smart-finance-tracker
 
-1.	Install dependencies:
 
-pip install streamlit pandas numpy requests plotly scikit-learn
+1.  Install dependencies:
 
-2.	Launch the Streamlit application:
+    pip install streamlit pandas numpy requests plotly scikit-learn
 
-streamlit run app.py
+2.  Launch the Streamlit application:
+
+    streamlit run app.py
 
 ## 👨‍💻 Author
 
